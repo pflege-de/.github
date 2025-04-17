@@ -1,0 +1,14 @@
+{
+    "name": "Pflege.de Go Workflow",
+    "description": "Pflege.de CI workflow template.",
+    "iconName": "octicon rocket",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "^Dockerfile",
+		"go.mod",
+		".*\\.go$",
+        ".*\\.md$"
+    ]
+}
