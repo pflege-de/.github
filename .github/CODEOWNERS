@@ -1,0 +1,4 @@
+# Default owner, specify more specific matches to override
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @pflege-de/cc-dev
